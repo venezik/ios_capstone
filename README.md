@@ -1,4 +1,4 @@
-# ios_capstone
+# ios_capstone - FitLife
 
 Original App Design Project - README
 
@@ -15,46 +15,46 @@ Description: FitLife is your all-in-one health and fitness companion, designed t
 App Evaluation
 
 Category: Health & Fitness
-Mobile: The idea for the app is very simple, but rather unique. The only other option is to use 2 different apps such as FitnessPal and some Gym tracker app. FitLife does both as well as touches on your mood.
+Mobile: The idea for the app is very simple but rather unique. The only other option is to use 2 different apps such as FitnessPal and some Gym tracker apps. FitLife does both as well as touches on your mood.
 
-Story: It is very clear as the app strives to create a habit of going to the Gym, track what you eat and provide feedback on your workouts.
+Story: It is very clear that the app strives to create a habit of going to the Gym, tracking what you eat, and providing feedback on your workouts.
 
-Market: Market is huge as it is very popular to maintain healthy lifestyle. It is projected to reach $16 billion by 2026. My friends would definitely agree to use something like this. The audience group is mostly young to middle age people that are interested in a healthy lifestyle. As well as smaller groups such as people who are on the mission to lose weight.
+Market: The market is huge as it is very popular to maintain a healthy lifestyle. It is projected to reach $16 billion by 2026. My friends would agree to use something like this. The audience group is mostly young to middle age people that are interested in a healthy lifestyle. As well as smaller groups such as people who are on a mission to lose weight.
 
-Habit:An average user would open this app most likely 2-3 times a week to enter their data or to monitor it. Which may vary. The average user is creating while using it for the most part as the app is designed to help you and show how you progess.
+Habit: An average user would open this app most likely 2-3 times a week to enter their data or to monitor it. Which may vary. The average user is creating while using it for the most part as the app is designed to help you and show how you progress.
 
-Scope: It is fairly challenging to create this app. Most of the implementation has been covered in our labs and projects. A stripped down version would still be interesting as it requires to work with API's and visually appealing design.
+Scope: It is fairly challenging to create this app. Most of the implementation has been covered in our labs and projects. A stripped-down version would still be interesting as it requires working with API and a visually appealing design.
 
 Product Spec
 1. User Stories (Required and Optional)
 **Required Must-have Stories**
 
-*  User can view nutrious components of food.
+*  User can view nutritious components of food.
 
-*  User can view calories of different foods.
+*  User can view the calories of different foods.
 
 *  User can put a checkmark for a workout
-*  User can control the slider for the length of the workout & muscle group that they worked on
+*  Users can control the slider for the length of the workout & muscle group that they worked on
 
-*  Survey at the end of the check-marking for workout to see how they feel about their experience and what they can do better.
+*  Survey at the end of the check-marking for a workout to see how they feel about their experience and what they can do better.
 
 * Calendar to see food and workout done for that specific day.
 
 Optional Nice-to-have Stories
 
-* User can see a recap over-time to see progress
+* User can see a recap over time to see progress
 
-* User can have a visual graphics to see their progress
+* User can have visual graphics to see their progress
 
 
 
 2. Screen Archetypes
-* User can see a search-bar and list of foods.
-    * User can add what food they consumed and its calories/nutrition 
+* User can see a search bar and a list of foods.
+    * Users can add what food they consumed and its calories/nutrition 
 * User can add Workout
-    * User can add the date, duration and muscle group they worked on + survey  
+    * User can add the date, duration, and muscle group they worked on + survey  
 * User can overview their activity for the day
-    * Calendar that displays acitivities & food for the specific day
+    * Calendar that displays activities & food for the specific day
 
 3. Navigation
 Tab Navigation (Tab to Screen)
@@ -72,7 +72,7 @@ Flow Navigation (Screen to Screen)
     * => Add Workout
      
 Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+[Add a picture of your hand-sketched wireframes in this section] 
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
