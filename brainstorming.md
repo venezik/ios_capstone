@@ -1,7 +1,7 @@
 ***Winner: FitLife***
 
 **FitLife**
-DescriptionFitLife is your all-in-one health and fitness companion, designed to help you track your food intake, exercise activity, and overall wellness journey. With intuitive features for logging meals, recording workouts, and reflecting on your progress, FitLife makes it easy to stay motivated and accountable. Whether you're striving to reach your fitness goals, maintain a balanced diet, or simply lead a healthier lifestyle, FitLife empowers you to take control of your health and live your best life.
+Description: FitLife is your all-in-one health and fitness companion, designed to help you track your food intake, exercise activity, and overall wellness journey. With intuitive features for logging meals, recording workouts, and reflecting on your progress, FitLife makes it easy to stay motivated and accountable. Whether you're striving to reach your fitness goals, maintain a balanced diet, or simply lead a healthier lifestyle, FitLife empowers you to take control of your health and live your best life.
 
 App Evaluation: 
 
