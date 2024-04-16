@@ -62,6 +62,7 @@ Optional Nice-to-have Stories
 * User can overview their activity for the day
     * Calendar that displays activities & food for the specific day
 
+
 3. Navigation
 Tab Navigation (Tab to Screen)
 
