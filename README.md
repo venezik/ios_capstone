@@ -23,7 +23,7 @@ Scope: It is fairly challenging to create this app. Most of the implementation h
 
 *  User can view the calories of different foods.
 
-*  User can put a checkmark for a workout
+*  User can add a workout session
 *  Users can control the slider for the length of the workout & muscle group that they worked on
 
 *  Survey at the end of the check-marking for a workout to see how they feel about their experience and what they can do better.
@@ -35,6 +35,14 @@ Scope: It is fairly challenging to create this app. Most of the implementation h
 * User can see a recap over time to see progress
 
 * User can have visual graphics to see their progress
+
+* User can see a calorie summary for the day
+
+* Weight Tracker
+
+* Steps displayed on the top
+
+* Water consumer for the day is displayed
 
 
 # Screen Archetypes
