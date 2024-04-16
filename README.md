@@ -49,10 +49,16 @@ Optional Nice-to-have Stories
 
 
 2. Screen Archetypes
+
+**Search**
 * User can see a search bar and a list of foods.
-    * Users can add what food they consumed and its calories/nutrition 
+    * Users can add what food they consumed and its calories/nutrition
+
+**Creation of Workout**
 * User can add Workout
-    * User can add the date, duration, and muscle group they worked on + survey  
+    * User can add duration, and muscle group they worked on + survey  
+
+**Stream (Overview)**
 * User can overview their activity for the day
     * Calendar that displays activities & food for the specific day
 
@@ -60,19 +66,26 @@ Optional Nice-to-have Stories
 Tab Navigation (Tab to Screen)
 
 * Nutrition & Food
+* Home
 * Workout
-* Calendar
 
 Flow Navigation (Screen to Screen)
 
 * Foods List Screen
     * => Food Search
 
+* Home Screen
+   * => Overview/Calendar
+
 * Workout Screen
     * => Add Workout
+    * => Add Goal
+    * => Weight Tracker
      
 Wireframes
-[Add a picture of your hand-sketched wireframes in this section] 
+
+![](https://imgur.com/9gsoRR1)
+![](https://imgur.com/sg1tJ16)
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
