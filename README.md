@@ -91,7 +91,7 @@ Flow Navigation (Screen to Screen)
     <a href="https://www.loom.com/share/b5984456d26344788819438150df0e0a">
     </a>
     <a href="https://www.loom.com/share/b5984456d26344788819438150df0e0a">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b5984456d26344788819438150df0e0a-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b5984456d26344788819438150df0e0a-1713242369693-with-play.gif">
     </a>
   </div>
 
