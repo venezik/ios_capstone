@@ -50,3 +50,11 @@ Users not only consume the app by tracking their habits but also actively engage
 5. Scope: The scope for HealthyHabit is well-formed, focusing on core features such as habit tracking, goal setting, and progress monitoring.
 While technically challenging to implement certain features like real-time tracking and personalized recommendations, a stripped-down version of the app with essential functionalities would still be valuable and interesting to build.
 The product vision for HealthyHabit is clearly defined, with a focus on providing a user-friendly and effective tool for habit formation and behavior change.
+
+**LearnLite**
+
+Description: LearnLite is a straightforward educational app that offers short, interactive lessons on various topics. Users can choose from a selection of beginner-level courses covering subjects like math, language learning, history, and science. Each lesson consists of simple explanations, followed by quizzes or exercises to reinforce learning. LearnLite aims to provide accessible and digestible educational content for users of all ages and skill levels.
+
+**TaskTrack**
+
+Description: TaskTrack is a basic productivity app for managing tasks and to-do lists. Users can create tasks, set priorities, and mark them as completed as they progress through their daily activities. The app offers a clean and intuitive interface with features like due date reminders and simple categorization options. TaskTrack aims to help users stay organized and focused on their goals without overwhelming them with unnecessary features.
