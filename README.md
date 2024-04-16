@@ -1,14 +1,8 @@
 # FitLife 
 
-Table of Contents
-Overview
-Product Spec
-Wireframes
-Schema
-Overview
 Description: FitLife is your all-in-one health and fitness companion, designed to help you track your food intake, exercise activity, and overall wellness journey. With intuitive features for logging meals, recording workouts, and reflecting on your progress, FitLife makes it easy to stay motivated and accountable. Whether you're striving to reach your fitness goals, maintain a balanced diet, or simply lead a healthier lifestyle, FitLife empowers you to take control of your health and live your best life.
 
-App Evaluation
+**App Evaluation**
 
 Category: Health & Fitness
 Mobile: The idea for the app is very simple but rather unique. The only other option is to use 2 different apps such as FitnessPal and some Gym tracker apps. FitLife does both as well as touches on your mood.
@@ -68,15 +62,15 @@ Tab Navigation (Tab to Screen)
 Flow Navigation (Screen to Screen)
 
 * Foods List Screen
-    * => Food Search
+    * -> Food Search
 
 * Home Screen
-   * => Overview/Calendar
+   * -> Overview/Calendar
 
 * Workout Screen
-    * => Add Workout
-    * => Add Goal
-    * => Weight Tracker
+    * -> Add Workout
+    * -> Add Goal
+    * -> Weight Tracker
      
 # Wireframes
 
@@ -86,18 +80,18 @@ Flow Navigation (Screen to Screen)
 # Sprint Goals
 
 **Sprint 1**
-[] Set up project and basic networking for food data.
-[] Implement food search functionality.
-[] Design and implement home screen overview and calendar display.
-[] Integrate the calendar with daily activities.
 
-*Sprint 2**
-[] Build a workout creation screen with options for duration, muscle group, and survey feedback.
-[] Implement progress recap and visualization features.
-[] Add any additional optional functionalities based on time and resource availability.
+- [ ] Set up project and basic networking for food data.
+- [ ] Implement food search functionality.
+- [ ] Design and implement home screen overview and calendar display.
+- [ ] Integrate the calendar with daily activities.
 
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
+**Sprint 2**
+
+- [ ] Build a workout creation screen with options for duration, muscle group, and survey feedback.
+- [ ] Implement progress recap and visualization features.
+- [ ] Add any additional optional functionalities based on time and resource availability.
+
 Schema
 [This section will be completed in Unit 9]
 
