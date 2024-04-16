@@ -2,7 +2,7 @@
 
 Original App Design Project - README
 
-**FitLife**
+# FitLife 
 
 Table of Contents
 Overview
@@ -25,7 +25,7 @@ Habit: An average user would open this app most likely 2-3 times a week to enter
 
 Scope: It is fairly challenging to create this app. Most of the implementation has been covered in our labs and projects. A stripped-down version would still be interesting as it requires working with API and a visually appealing design.
 
-Product Spec
+# Product Spec
 1. User Stories (Required and Optional)
 **Required Must-have Stories**
 
@@ -40,15 +40,14 @@ Product Spec
 
 * Calendar to see food and workout done for that specific day.
 
-Optional Nice-to-have Stories
+**Optional** Nice-to-have Stories
 
 * User can see a recap over time to see progress
 
 * User can have visual graphics to see their progress
 
 
-
-2. Screen Archetypes
+# Screen Archetypes
 
 **Search**
 * User can see a search bar and a list of foods.
@@ -63,7 +62,7 @@ Optional Nice-to-have Stories
     * Calendar that displays activities & food for the specific day
 
 
-3. Navigation
+# Navigation
 Tab Navigation (Tab to Screen)
 
 * Nutrition & Food
@@ -83,11 +82,23 @@ Flow Navigation (Screen to Screen)
     * => Add Goal
     * => Weight Tracker
      
-Wireframes
+# Wireframes
 
 <img src="https://i.imgur.com/9gsoRR1.jpg" width=600>
 <img src="https://i.imgur.com/sg1tJ16.jpg" width=600>
 
+# Sprint Goals
+
+**Sprint 1**
+[] Set up project and basic networking for food data.
+[] Implement food search functionality.
+[] Design and implement home screen overview and calendar display.
+[] Integrate the calendar with daily activities.
+
+*Sprint 2**
+[] Build a workout creation screen with options for duration, muscle group, and survey feedback.
+[] Implement progress recap and visualization features.
+[] Add any additional optional functionalities based on time and resource availability.
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
