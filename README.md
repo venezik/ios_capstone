@@ -1,5 +1,3 @@
-# ios_capstone - FitLife
-
 # FitLife 
 
 Table of Contents
