@@ -85,6 +85,16 @@ Flow Navigation (Screen to Screen)
 <img src="https://i.imgur.com/9gsoRR1.jpg" width=600>
 <img src="https://i.imgur.com/sg1tJ16.jpg" width=600>
 
+# Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/b5984456d26344788819438150df0e0a">
+    </a>
+    <a href="https://www.loom.com/share/b5984456d26344788819438150df0e0a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b5984456d26344788819438150df0e0a-with-play.gif">
+    </a>
+  </div>
+
 # Sprint Goals
 
 **Sprint 1**
