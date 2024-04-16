@@ -1,7 +1,5 @@
 # ios_capstone - FitLife
 
-Original App Design Project - README
-
 # FitLife 
 
 Table of Contents
