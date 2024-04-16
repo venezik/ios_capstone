@@ -85,7 +85,7 @@ Flow Navigation (Screen to Screen)
 Wireframes
 
 <img src="https://i.imgur.com/9gsoRR1.jpg" width=600>
-<img src="https://imgur.com/sg1tJ16" width=600>
+<img src="https://i.imgur.com/sg1tJ16.jpg" width=600>
 
 
 [BONUS] Digital Wireframes & Mockups
