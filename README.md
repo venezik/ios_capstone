@@ -99,16 +99,20 @@ Flow Navigation (Screen to Screen)
 
 **Sprint 1**
 
-- [ ] Set up project and basic networking for food data.
-- [ ] Implement food search functionality.
-- [ ] Design and implement home screen overview and calendar display.
-- [ ] Integrate the calendar with daily activities.
+- [x] Set up project and basic networking for food data.
+- [x] Implement food search functionality.
+- [x] Design and implement the nutrition tab and workout tab.
 
 **Sprint 2**
 
-- [ ] Build a workout creation screen with options for duration, muscle group, and survey feedback.
-- [ ] Implement progress recap and visualization features.
-- [ ] Add any additional optional functionalities based on time and resource availability.
+- [x] Build a workout creation screen with options for duration, muscle group, and survey feedback.
+- [x] Integrate HealthKit and output data of your workouts
+
+**Sprint 3**
+-[] Fix the UI elements with all the necessary constraints 
+-[] Fix the visual appearance of all the UI elements.
+-[] Bug fixes
+-[] Implement nice-to-have features based on the availability.
 
 Schema
 [This section will be completed in Unit 9]
