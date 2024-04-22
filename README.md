@@ -109,10 +109,10 @@ Flow Navigation (Screen to Screen)
 - [x] Integrate HealthKit and output data of your workouts
 
 **Sprint 3**
--[] Fix the UI elements with all the necessary constraints 
--[] Fix the visual appearance of all the UI elements.
--[] Bug fixes
--[] Implement nice-to-have features based on the availability.
+- [] Fix the UI elements with all the necessary constraints 
+- [] Fix the visual appearance of all the UI elements.
+- [] Bug fixes
+- [] Implement nice-to-have features based on the availability.
 
 Schema
 [This section will be completed in Unit 9]
