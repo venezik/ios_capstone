@@ -121,6 +121,7 @@ Models
 [Add table of models]
 
 Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
+Ninja Api - Nutrition Api - Nutrition Tab
+Health Kit - Workout Tab
+<img src="https://i.imgur.com/M5V6Oc3.png" width=600>
+
