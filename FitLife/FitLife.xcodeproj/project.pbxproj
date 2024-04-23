@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D42A3B8C2BD7F24000276F17 /* workoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42A3B8B2BD7F24000276F17 /* workoutViewController.swift */; };
+		D42A3B8E2BD7F25E00276F17 /* DetailCalorieController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42A3B8D2BD7F25E00276F17 /* DetailCalorieController.swift */; };
+		D42A3B902BD7F28900276F17 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42A3B8F2BD7F28900276F17 /* Food.swift */; };
 		D473D8BA2BCE3086003DB53D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D473D8B92BCE3086003DB53D /* AppDelegate.swift */; };
 		D473D8BC2BCE3086003DB53D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D473D8BB2BCE3086003DB53D /* SceneDelegate.swift */; };
 		D473D8BE2BCE3086003DB53D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D473D8BD2BCE3086003DB53D /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D42A3B8B2BD7F24000276F17 /* workoutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workoutViewController.swift; sourceTree = "<group>"; };
+		D42A3B8D2BD7F25E00276F17 /* DetailCalorieController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailCalorieController.swift; sourceTree = "<group>"; };
+		D42A3B8F2BD7F28900276F17 /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
 		D473D8B62BCE3086003DB53D /* FitLife.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FitLife.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D473D8B92BCE3086003DB53D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D473D8BB2BCE3086003DB53D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				D473D8C22BCE3089003DB53D /* Assets.xcassets */,
 				D473D8C42BCE3089003DB53D /* LaunchScreen.storyboard */,
 				D473D8C72BCE3089003DB53D /* Info.plist */,
+				D42A3B8B2BD7F24000276F17 /* workoutViewController.swift */,
+				D42A3B8D2BD7F25E00276F17 /* DetailCalorieController.swift */,
+				D42A3B8F2BD7F28900276F17 /* Food.swift */,
 			);
 			path = FitLife;
 			sourceTree = "<group>";
@@ -138,9 +147,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D42A3B8C2BD7F24000276F17 /* workoutViewController.swift in Sources */,
 				D473D8BE2BCE3086003DB53D /* ViewController.swift in Sources */,
 				D473D8BA2BCE3086003DB53D /* AppDelegate.swift in Sources */,
 				D473D8BC2BCE3086003DB53D /* SceneDelegate.swift in Sources */,
+				D42A3B8E2BD7F25E00276F17 /* DetailCalorieController.swift in Sources */,
+				D42A3B902BD7F28900276F17 /* Food.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
