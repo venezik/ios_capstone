@@ -118,16 +118,11 @@ Flow Navigation (Screen to Screen)
 - [x] Integrate HealthKit and output data of your workouts
 
 **Sprint 3**
-- [ ] Fix the UI elements with all the necessary constraints 
-- [ ] Fix the visual appearance of all the UI elements.
-- [ ] Bug fixes
+- [x] Fix the UI elements with all the necessary constraints 
+- [x] Fix the visual appearance of all the UI elements.
+- [x] Bug fixes
 - [ ] Implement nice-to-have features based on the availability.
 
-Schema
-[This section will be completed in Unit 9]
-
-Models
-[Add table of models]
 
 Networking
 Ninja Api - Nutrition Api - Nutrition Tab
