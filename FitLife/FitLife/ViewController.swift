@@ -56,6 +56,14 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
                     // Set current date as last reset date
                     UserDefaults.standard.set(Date(), forKey: lastResetDateKey)
                 }
+        if let savedTotalCalories = UserDefaults.standard.value(forKey: "totalCalories") as? Int {
+                totalCalories = savedTotalCalories
+                updateTotalCaloriesLabel() // Update the label with the saved total calories
+            }
+    }
+    
+    func saveTotalCalories() {
+        UserDefaults.standard.set(totalCalories, forKey: "totalCalories")
     }
     
     func resetStoredFoods() {
@@ -77,17 +85,17 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             } else {
                 print("Failed to encode foods array")
             }
-    }
-
+    }	
     
     func addFood(_ food: Food) {
         foods.append(food)
-        saveFoods() // Save after adding
+        totalCalories += Int(food.calories)
+        saveTotalCalories() // Save after updating totalCalories
+        saveFoods() // Save foods array
         tableView.reloadData()
+        updateTotalCaloriesLabel()
         print("Food added. Saving foods...")
     }
-    
-    
     
     func updateTotalCaloriesLabel() {
         print("Updating total calories label with value: \(totalCalories)")
@@ -141,7 +149,6 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
                let destinationVC = segue.destination as? DetailCalorieController {
                     destinationVC.food = selectedFood
                     destinationVC.onFoodAdded = { [weak self] calories in
-                        self?.totalCalories += Int(calories)
                         self?.updateTotalCaloriesLabel()
                         
                         // Check if workoutVC is not nil before calling updateCaloriesLabel
