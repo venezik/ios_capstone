@@ -86,6 +86,16 @@ Flow Navigation (Screen to Screen)
 <img src="https://i.imgur.com/sg1tJ16.jpg" width=600>
 
 ## Video Walkthrough
+
+**Final Version**
+<div>
+    <a href="https://www.loom.com/share/b7e6a2d994ba4645aaeb9d2de4cf32b3">
+    </a>
+    <a href="https://www.loom.com/share/b7e6a2d994ba4645aaeb9d2de4cf32b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7e6a2d994ba4645aaeb9d2de4cf32b3-1714504892595-with-play.gif">
+    </a>
+  </div>
+
 **Sprint 1**
 <div>
     <a href="https://www.loom.com/share/b5984456d26344788819438150df0e0a">
